@@ -1,0 +1,1 @@
+n=input();print(f"{n[0]}{len(n)-2}{n[-1]}")
