@@ -1,6 +1,6 @@
 #https://atcoder.jp/contests/abc113/tasks/abc113_b
 
-def temp(T) -> float:
+def temp(T):
     "平均気温の関数"
     return lambda x: T - x * 0.006
 
